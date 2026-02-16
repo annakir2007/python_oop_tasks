@@ -13,4 +13,6 @@ src/lab05
 src/lab06
 src/lab07
 
+# scripts
+_scripts/__pycache__
 
