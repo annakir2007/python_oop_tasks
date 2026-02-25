@@ -1,2 +1,4 @@
-# python_oop
-repo for first year bivt-students
+# Объектно-ориентированное программирование
+
+: TO DO : заполнить общую ридмишку
+
